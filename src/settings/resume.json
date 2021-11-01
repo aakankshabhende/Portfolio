@@ -1,0 +1,130 @@
+{
+    "basics": {
+        "name": "Aakanksha Bhende",
+        "label": "Computer Science Undergrad",
+        "email": "aakanksha0407@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "jl.png",
+        "x_title": "Hey, I'm",
+        "job": "CS Undergrad",
+        "description": "Hey, I'm Aakanksha Bhende, a Computer Science Undergrad based in Gujarat, India.",
+        "summary": "based in Gujarat, India.",
+        "keywords": "personal,website,portfolio,template,kit,aakankshabhende,computer,aakanksha,bhende,science,gujarat,india,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://aakankshabhende.github.io",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Gujarat",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "India"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "aakanksha0407",
+                "url": "mailto:aakanksha0407@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "aakanksha-bhende",
+                "url": "https://www.linkedin.com/in/aakanksha-bhende/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "aakankshabhende",
+                "url": "https://github.com/aakankshabhende",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "Blogger",
+                "username": "aakankshabhende",
+                "url": "https://aakankshabhende.blogspot.com/",
+                "x_icon": "fab fa-blogger"
+            },
+            {
+                "network": "Twitter",
+                "username": "AakankshaBhende",
+                "url": "https://twitter.com/AakankshaBhende",
+                "x_icon": "fab fa-twitter"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Marathi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "Gujarati",
+            "fluency": "Good knowledge"
+        }
+    ]
+}
